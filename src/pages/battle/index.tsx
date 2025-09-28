@@ -174,7 +174,7 @@ const Battle = () => {
                 </p>
                 <div className="mt-4 flex justify-center">
                 <img
-                  src="/pokeball.png"
+                  src={"/poke-ball.png"}
                   alt="pokeball"
                   className="w-20 animate-spin-slow"
                 />
