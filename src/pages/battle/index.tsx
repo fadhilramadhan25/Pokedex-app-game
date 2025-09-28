@@ -11,7 +11,6 @@ import Layout from "@/components/layout";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import "react-lazy-load-image-component/src/effects/blur.css";
 
-
 const Battle = () => {
   const navigate = useNavigate();
   const { pokeId } = useParams();
@@ -93,7 +92,7 @@ const Battle = () => {
                 </div>
                 <LazyLoadImage
                   className="animate-bounce"
-                  src={"/public/pokeball.png"}
+                  src={"/public/poke-ball.png"}
                   alt="pokeball"
                   width={96}
                   height={96}
