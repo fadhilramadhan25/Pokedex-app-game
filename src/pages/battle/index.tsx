@@ -92,7 +92,7 @@ const Battle = () => {
                 </div>
                 <LazyLoadImage
                   className="animate-bounce"
-                  src={"/public/poke-ball.png"}
+                  src={"/poke-ball.png"}
                   alt="pokeball"
                   width={96}
                   height={96}
