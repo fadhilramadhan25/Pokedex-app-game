@@ -26,6 +26,7 @@
     "@types/node": "^20.10.0",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
+    "@types/react-lazy-load-image-component": "^1.6.4",
     "@types/react-lazyload": "^3.2.3",
     "@typescript-eslint/eslint-plugin": "^6.10.0",
     "@typescript-eslint/parser": "^6.10.0",
